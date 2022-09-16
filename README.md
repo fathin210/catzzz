@@ -1,3 +1,25 @@
+
+# Catzzz
+
+I made this Web to completing my task interview. 
+
+
+## Features
+
+- Responsive UI
+- Fetching and Post data from CatAPI
+- Infinite Scroll using library from react-infinite-scroll-component
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/fathin210/catzzz/blob/master/screenshots/Screenshot_1.jpg?raw=true)
+
+![App Screenshot](https://github.com/fathin210/catzzz/blob/master/screenshots/Screenshot_2.jpg?raw=true)
+
+![App Screenshot](https://github.com/fathin210/catzzz/blob/master/screenshots/Screenshot_3.jpg?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
